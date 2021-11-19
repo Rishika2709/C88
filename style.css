@@ -3,6 +3,7 @@
     background-position: center;
     background-size:contain;
 	background:url("Grass.jpg");
+	background-repeat:no-repeat;
 }
 #myCanvas
 {
