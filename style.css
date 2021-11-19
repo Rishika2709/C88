@@ -1,9 +1,9 @@
 .body_background 
 {
-    background-position: center;
-    background-size:contain;
-	background:url("istockphoto-136546200-612x612.jpg");
-	background-repeat:no-repeat;
+background-position: center;
+background-size:contain;
+background:url("istockphoto-136546200-612x612.jpg");
+background-repeat:no-repeat;
 }
 #myCanvas
 {
